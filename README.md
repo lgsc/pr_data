@@ -10,6 +10,8 @@
 <p>source: <a href='https://data.oce.gov.pr/Donaciones/Mapa-de-donaciones-recibidas-por-c-digo-postal/gd5x-wf9i'>link</a></p>
 <p>date created: </p>
 <p>last updated: </p>
+<p>downloaded: Sept 1, 2017</p>
+
 
 
 #### Social Services
