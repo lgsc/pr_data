@@ -6,7 +6,8 @@ log = logging.getLogger(__name__)
 
 def main():
     logging.basicConfig(level=logging.INFO)
-    df = exports.get_df_from_csv(file='data_lib/record_de_votacion_de_senado.csv')
+    df = exports.get_df_from_csv(
+        file_path='data_lib/record_de_votacion_de_senado.csv')
     log.info(list(df))
 
 
