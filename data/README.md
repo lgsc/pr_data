@@ -31,4 +31,12 @@
     <td></td>
     <td>Social Services</td>
   </tr>
+  <tr>
+    <td>mapa_del_crimen.csv</td>
+    <td><a    href='https://data.pr.gov/en/Seguridad-P-blica/Mapa-del-Crimen-Crime-Map/bkiv-k4gu'>Website</a></td>
+    <td>/td>
+    <td>December 12, 2017</td>
+    <td>February 10, 2018</td>
+    <td>Crime</td>
+  </tr>
 </table>
