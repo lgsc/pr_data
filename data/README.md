@@ -39,4 +39,12 @@
     <td>February 10, 2018</td>
     <td>Crime</td>
   </tr>
+  <tr>
+    <td>directorio_comprensivo_de_escuelas_publicas_2017.csv</td>
+    <td><a    href='https://data.pr.gov/en/Educaci-n/Directorio-Comprensivo-de-Escuelas-P-blicas-Puerto/gb92-58gc'>Website</a></td>
+    <td>June 27, 2017</td>
+    <td>August 15, 2017</td>
+    <td>February 10, 2018</td>
+    <td>Schools</td>
+  </tr>
 </table>
