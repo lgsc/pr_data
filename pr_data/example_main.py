@@ -6,8 +6,7 @@ log = logging.getLogger(__name__)
 
 def main():
     logging.basicConfig(level=logging.INFO)
-    df = exports.get_df_from_csv(
-        file_name='data/mapa_de_donaciones_recibidas.csv')
+    df = exports.edu_county_appends()
     log.info(df)
 
 
